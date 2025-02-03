@@ -35,7 +35,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-mohammad nihal edited
+// mohammad nihal edited
 @Preview(showSystemUi = true)
 @Composable
 fun DefaultPreview() {
